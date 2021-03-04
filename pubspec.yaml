@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_sign_in: ^4.0.11
-  mockito: ^4.1.0
+  mockito: 5.0.0-nullsafety.0
 
 dev_dependencies:
   flutter_test:
